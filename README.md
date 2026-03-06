@@ -66,7 +66,7 @@
   <a href="killyour.self" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
   </a>
-  <a href="@sohifu" target="_blank">
+  <a href="[@sohifu](https://web.telegram.org/k/#@sohifu)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="40" alt="telegram logo"  />
   </a>
 </div>
