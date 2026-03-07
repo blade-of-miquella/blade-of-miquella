@@ -2,10 +2,6 @@
 
 ###
 
-<h4 align="left">I’m building Rebellion, a community for people who still believe in craft and soul. If you feel the same — welcome.</h4>
-
-###
-
 <div align="center">
   <img height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxuejB5Z2ZqbmYzZHBpZTFid3ZzM3VndWhwdDRvZWx5azNkcG5mbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lnq52t8atIw3m/giphy.gif"  />
 </div>
